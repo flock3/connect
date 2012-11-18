@@ -1,6 +1,6 @@
 # connect
 
-currently under construction
+currently under construction - no kidding..
 
 ## Introduction
 
